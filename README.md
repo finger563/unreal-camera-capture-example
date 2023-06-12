@@ -1,4 +1,4 @@
-# Camera Capture Plugin for Unreal Engine 5 Example Project
+# Example Project for the Unreal Engine Camera Capture Plugin
 
 Example project showing the use of the [Camera Capture Plugin for Unreal
 Engine 5](https://github.com/finger563/unreal-camera-capture)
