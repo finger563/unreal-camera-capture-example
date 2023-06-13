@@ -10,6 +10,7 @@ Provides:
   `BP_CapturePawn` for controlling it.
 - A `BP_CapturePawn` pawn class which contains a single camera (front). It has a
   single camera (`front`) and is configured to capture data every 0.5 seconds.
+  It also has a small sphere collider so that it will not clip through objects.
   It auto-possesses player 0 and supports the following inputs:
   - `wasd`: Standard FPS movement for a floating pawn (e.g. motion along the
     look vector, strafing along the right vector)
