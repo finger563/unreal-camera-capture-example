@@ -13,6 +13,8 @@ Provides:
   It auto-possesses player 0 and supports the following inputs:
   - `wasd`: Standard FPS movement for a floating pawn (e.g. motion along the
     look vector, strafing along the right vector)
+  - `mouse`: Standard captured FPS mouse look (pitch and yaw) for a floating
+    pawn.
   - `spacebar`: Toggle capturing data. Capturing is initially enabled when
     starting to play.
   - `f`: Toggle writing captured data to files (serialization). Serialization is
