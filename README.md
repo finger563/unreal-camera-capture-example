@@ -3,6 +3,8 @@
 Example project showing the use of the [Camera Capture Plugin for Unreal
 Engine 5](https://github.com/finger563/unreal-camera-capture)
 
+![image](https://github.com/finger563/unreal-camera-capture-example/assets/213467/eec72979-80be-4d82-9377-1977e681f960)
+
 Provides:
 - A set of input actions (Look, Move, Capture, Serialize) which are used by the
   `BP_CapturePawn` for controlling it.
