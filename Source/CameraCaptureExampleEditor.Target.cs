@@ -8,7 +8,7 @@ public class CameraCaptureExampleEditorTarget : TargetRules
 	public CameraCaptureExampleEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V5;
+		DefaultBuildSettings = BuildSettingsVersion.V6;
 		// IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_1;
 		ExtraModuleNames.Add("CameraCaptureExample");
 	}
