@@ -12,7 +12,7 @@ Provides:
   single camera (`front`) and is configured to capture data every 0.5 seconds.
   It also has a small sphere collider so that it will not clip through objects.
   It auto-possesses player 0 and supports the following inputs:
-  - `wasd`: Standard FPS movement for a floating pawn (e.g. motion along the
+  - `wasdqe`: Standard FPS movement for a floating pawn (e.g. motion along the
     look vector, strafing along the right vector)
   - `mouse`: Standard captured FPS mouse look (pitch and yaw) for a floating
     pawn.
@@ -57,5 +57,5 @@ Capture/serialization:
 - `f`: Start/Stop serialization. Serialization is stopped on begin play by default.
 
 Movement:
-- `wasd`: movement
+- `wasdqe`: movement
 - `mouse`: look
