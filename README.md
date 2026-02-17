@@ -3,7 +3,7 @@
 Example project showing the use of the [Camera Capture Plugin for Unreal
 Engine 5](https://github.com/finger563/unreal-camera-capture)
 
-![image](https://github.com/finger563/unreal-camera-capture-example/assets/213467/eec72979-80be-4d82-9377-1977e681f960)
+<img width="1885" height="1172" alt="image" src="https://github.com/user-attachments/assets/0fff38dd-4614-4312-b2e6-e16f58c41004" />
 
 Provides:
 - A set of input actions (Look, Move, Capture, Serialize) which are used by the
@@ -20,7 +20,7 @@ Provides:
     starting to play.
   - `f`: Toggle writing captured data to files (serialization). Serialization is
     initially disabled when starting to play.
-- A `CaptureMap` which has a scene set up together with a `BP_CapturePawn`. This
+- A `Map_Capture` which has a scene set up together with a `BP_CapturePawn`. This
   is the default map which will load when you load the project. Pressing play to
   play in this level will auto-possess the `BP_CapturePawn` and start capturing.
 
